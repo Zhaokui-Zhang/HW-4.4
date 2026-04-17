@@ -1,0 +1,15 @@
+---
+title: "HW 4.4"
+author: "Zhaokui Zhang"
+date: "2026-04-17"
+format: pdf
+---
+
+# Introduction
+This project analyzes simple data.
+
+# Analysis
+
+```{r}
+x <- c(1, 2, 3, 4, 5)
+mean(x)
